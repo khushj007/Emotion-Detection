@@ -6,7 +6,7 @@ This application predicts your emotions using live feed from your local computer
 
 We have a total of 35,887 (48x48) grayscale images across 7 classes.
 
-![Data Analysis](artifacts\data.png)
+![Data Analysis]("artifacts\data.png")
 
 
 
@@ -21,15 +21,15 @@ The metrics for the best-performing CNN are as follows:
 
 1. **Accuracy Plot** 
 
-   ![Accuracy Plot](artifacts\acc.png)
+   ![Accuracy Plot]("artifacts\acc.png")
 
 2. **Loss Plot**
 
-   ![Loss Plot](artifacts\loss.png)
+   ![Loss Plot]("artifacts\loss.png")
 
 3. **Confusion Matrix**
 
-   ![Confusion Matrix](artifacts\cm.png)
+   ![Confusion Matrix]("artifacts\cm.png")
 
 
 
