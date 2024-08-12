@@ -1,6 +1,6 @@
 # Emotion Detection
 
-This application predicts your emotions using live feed from your local computer webcam. For this app, I have developed several Convolutional Neural Networks (CNNs) from scratch and selected the one with the highest accuracy.
+This application predicts your emotions using live feed from your local computer webcam. For this app, I have developed several Convolutional Neural Networks (CNNs) from scratch and selected the one with the best performance.
 
 # About Data
 
